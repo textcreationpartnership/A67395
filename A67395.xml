@@ -1,0 +1,196 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A letter from New-England concerning their customs, manners, and religion written upon occasion of a report about a quo warranto brought against that government.</title>
+            <author>J. W.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1682</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 19 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A67395</idno>
+            <idno type="STC">Wing W59</idno>
+            <idno type="STC">ESTC R7104</idno>
+            <idno type="EEBO-CITATION">13506949</idno>
+            <idno type="OCLC">ocm 13506949</idno>
+            <idno type="VID">99833</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A67395)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 99833)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 480:3)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A letter from New-England concerning their customs, manners, and religion written upon occasion of a report about a quo warranto brought against that government.</title>
+                  <author>J. W.</author>
+               </titleStmt>
+               <extent>[2], 9 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Randolph Taylor ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1682.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed at end: J. W.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Boston (Mass.) --  Social life and customs.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-07</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2010-07</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:99833:1"/>
+            <pb facs="tcp:99833:1" rendition="simple:additions"/>
+            <p>A LETTER FROM NEW-ENGLAND Concerning their CUSTOMS, MANNERS, AND RELIGION.</p>
+            <p>Written upon occaſion of a Report about a Quo Warranto Brought againſt that GOVERNMENT.</p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Randolph Taylor</hi> near Stationers Hall, 1682.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:99833:2"/>
+            <pb n="1" facs="tcp:99833:2" rendition="simple:additions"/>
+            <head>A LETTER FROM New England, &amp;c.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>I Received yours, and ſince that we are informed that a <hi>Quo Warranto</hi> is framing againſt the Government of this place; whether true or falſe I deſire you to ſend word. I doubt not but in the mean time ſeveral of your Diſſenters will think it a little hard, that their Breth<g ref="char:EOLhyphen"/>ren ſhould be perfecuted afar off, as they cry out they are at home; but if they knew, or upon knowledge conſider<g ref="char:EOLhyphen"/>ed, what a ſort of People the Inhabitants of this Colony are, I believe the very worſt of your Enthuſiaſts and Hy<g ref="char:EOLhyphen"/>pocrites would not claim any Kindred with them.</p>
+            <p>I think it great reaſon that the King ſhould make Inqui<g ref="char:EOLhyphen"/>ry into their Authority, when they live altogether as if they denied his, and impoſe Arbitrary Laws on all Tra<g ref="char:EOLhyphen"/>fiques hither, without reſpect to their Fellow Subjects; and moſt certainly the King has good grounds to ſuſpect their Obedience to him, when they live in ſuch a continual courſe of Debauchery, that by their Actions one would think they were Atheiſts, and as exempt from the Super<g ref="char:EOLhyphen"/>intendency of God, as they fancy themſelves unaccount<g ref="char:EOLhyphen"/>able to any Power, by being a Conſtitution within them<g ref="char:EOLhyphen"/>ſelves.</p>
+            <pb n="2" facs="tcp:99833:3"/>
+            <p>As to their Religion, I cannot perfectly diſtinguiſh it by name, it being a Hodgpodg of all Hereſies and Errors mix'd together, he onely Cement being Hypocriſie and Diſſimulation; and nothing keeps 'em Friends, but onely the fear of expoſing one anothers Knavery. An Elder is a Mungrel begot by a Jack Presbyter upon the body of an Independent Siſter. As for the Rabble, their onely Reli<g ref="char:EOLhyphen"/>gion lies in ch<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ating all they deal with, and now and then to be cheated themſelves by their Paſtors for Conſcience ſake. In a word, both Teacher and Flock are like Water<g ref="char:EOLhyphen"/>men, that look one way and row another; their Eyes are always fixed upon Heaven, while they tread the paths to Hell; and have continually God in their mouths, but the Devil in their hearts and actions. Notwithſtanding all their noiſe and clamour againſt Perſecution, and the rea<g ref="char:EOLhyphen"/>ſonableneſs for a Toleration in Tender Conſciences, you may expect more mercy from a <hi>Turk</hi> in his revenge, or fairer dealing from a <hi>Jew</hi> in his trade.</p>
+            <p>I have ſeen them whip ſeveral of the Anabaptiſt Princi<g ref="char:EOLhyphen"/>ple in one day at the Gun, (the uſual Whipping place here) onely for ſerving God according to their way, as if they would allow no body elſe to be in the wrong but themſelves.</p>
+            <p>The Quakers are here a very ſuffering Generation, and hardly one of the <hi>Yea and Nay</hi> Perſuaſion, but has been abuſed ſeverely, and three of the moſt obſtinate were tied up; nothing but their Religion being laid to their charge. I would fain know what a bawling about Perſecution, free exerciſe for the Godly, and Liberty and Property, would have been in <hi>England</hi> with you, if ſuch things were acted amongſt you as are here daily.</p>
+            <p>But the moſt unparallell'd Inſtance of all is, that though they profeſs themſelves Proteſtants, their hatred is moſt generally againſt thoſe few perſons that are according to the <hi>Church of England;</hi> and if any man has the courage to own himſelf of that Communion, they'll ſlily threaten him, and ſtudy to trepan him into ſome breach of their Laws, and ſo make him either fine, or perhaps inflict a bo<g ref="char:EOLhyphen"/>dily puniſhment. They exact three pounds a year of ſuch
+<pb n="3" facs="tcp:99833:3" rendition="simple:additions"/>perſons for not frequenting their Conventicles; and if they come to inhabit with their Families, unleſs the Man or his Wife be a Member of their Church, they very cha<g ref="char:EOLhyphen"/>ritably deny Baptiſm to their Children, looking upon all but their own dear Cubs as the Seed of Pagans and Infi<g ref="char:EOLhyphen"/>dels.</p>
+            <p>I wonder by what Authority they thus Lord it over their Fellow Subjects, it being directly contrary to the Kings intent, and the Charter of the place; all Perſuaſions be<g ref="char:EOLhyphen"/>ing allowed by Royal Leave, it being look'd upon as a Situation deſigned for Trade, not the propagation of their particular Religion.</p>
+            <p>They have all their Government within themſelves in a particular manner; they chooſe their own Officers, and have a Court which conſiſts of Eighteen Magiſtrates, which they call a Court of Juſtice. Theſe ſit as Judges in all matters that tend to the Execution of the Laws, which are always made by a Court of a General Aſſembly, which con<g ref="char:EOLhyphen"/>ſiſts not onely of the Court of Juſtice, but of a Deputy choſe out of each reſpective Town belonging to the <hi>Maſa<g ref="char:EOLhyphen"/>theuſets</hi> Colony. By this General Aſſembly all Taxes are laid on the People, Laws enacted, &amp;c. Amongſt the reſt they have a Law, which lays an Impoſition on all Goods whatſoever here imported from <hi>England,</hi> which in my opi<g ref="char:EOLhyphen"/>nion is quite contrary to the Laws of <hi>England,</hi> an Act of Parliament being expreſly to the contrary; and certainly they uſurp that power, whereby they claim any thing from <hi>Engliſh</hi> Goods, that have paid His Majeſty's Cuſtoms at <hi>Engliſh</hi> Ports; and how they came inveſted with this Pre<g ref="char:EOLhyphen"/>rogative, I believe they will be put to it to give an ac<g ref="char:EOLhyphen"/>count.</p>
+            <p>I know ſeveral have been forced to pay one Peny the Pound, and no redreſs could be had, they being both Jud<g ref="char:EOLhyphen"/>ges and Exactors into the bargain.</p>
+            <p>They have ſeveral good and wholſom Laws as in other places, as againſt Adultery, Fornication, Cheating, Drun<g ref="char:EOLhyphen"/>kenneſs, and Buggery; but conſidering their Actions, all their Laws look but like Scarecrows, or for faſhions ſake. In their practice they outgo the moſt notorious of Offend<g ref="char:EOLhyphen"/>ers;
+<pb n="4" facs="tcp:99833:4"/>
+               <hi>Meſſalina</hi> was chaſte in compariſon of their lewd and repeated Fornications and Adulteries. For Lying and Cheating they outvie <hi>Judas,</hi> and all the falſe Merchants in Hell; and the worſt of Drunkards may here find Pot<g ref="char:EOLhyphen"/>companions enough, for all their pretences to Sobriety. In a word, no Sect of Men upon the face of the earth are ſo unmannerly, in their outward diſclaiming againſt Vices in particular, and more punctual in the practice of all in ge<g ref="char:EOLhyphen"/>neral.</p>
+            <p>The Chaſtity of the People may be gueſſed at by the number of Delinquents in that kind; there hardly paſſes a Court Day but four or five are convened for Fornication or Adultery, and Convictions in this nature are very fre<g ref="char:EOLhyphen"/>quent; after which the fair Convict is ſometimes turned over to a Lay Elder, for chaſtiſement for her former ſin, and the commiſſion of a new one.</p>
+            <p>Now moſt certainly if Juſtice finds out ſo many Tranſ<g ref="char:EOLhyphen"/>greſſours in this kind, how many muſt the private ones amount to? I may without being uncharitable think, they include a great part of the Town; for private ſins (as theſe are) ſeldom fall under publick cenſure, or at leaſt not ſo of<g ref="char:EOLhyphen"/>ten as more open ones.</p>
+            <p>
+               <hi>Mr.</hi> A—<hi>s Wife has been moſt notorious, and diſgrac'd the whole Herd, by putting the Horns on her Husband, and their Head-leader the old Paſtor; who poor man, though he has the Gift of Sanctifying in the Spirit, fails much in Satisfying the Fleſh; which gives occaſion to his ſweet Spouſe to ſtraggle abroad for an Help meet, and once particularly was caught, ha<g ref="char:EOLhyphen"/>ving been at the Tavern almoſt all night with a Perſon well known here, and returning home to the old Gentleman, was en<g ref="char:EOLhyphen"/>countered by the Watch, to whom (adding one time to another) ſhe pretended ſhe bad been upon the ſearch for her Husband, but the Watch ſmok'd the buſineſs, and out of a ſenſe of their own Failings, and her Credit, diſmiſſed her home, not willing to make her a publick Example, leſt the wicked ſhould rejoyce, and the uncircumcized triumph at the ſweet downfall of a Daugh<g ref="char:EOLhyphen"/>ter of Zion.</hi>
+            </p>
+            <pb n="5" facs="tcp:99833:4" rendition="simple:additions"/>
+            <p>I could name you ſeveral others, as my Lady <hi>S—ff,</hi> my Lady <hi>P—e,</hi> and young pretty <hi>Mrs. S—,</hi> Daughter to a great Member; <hi>Mrs. C—y, Mrs. T—r, Mrs. B—ll, Mrs. F—n, Mrs. R—t, Mrs. S—h, Mrs. M—s,</hi> and <hi>Mrs. J—n;</hi> all which are Well-willers to the Mathe<g ref="char:EOLhyphen"/>maticks, and can tell how to adorn their Husbands Heads with a Forked Coat of Arms.</p>
+            <p>And yet further to prove to you how agreeable this ſweet ſin of Leachery is to them, I ſhall give you one In<g ref="char:EOLhyphen"/>ſtance more, of one who formerly had murdered her In<g ref="char:EOLhyphen"/>fant here, which was thrown into the Town Dock; the Infant being taken up, the Magiſtrates immediately gave order for the ſearch of all the Women in the Town, to ſee if thereby they could find out the Murdereſs; now in this ſearch, though the Murdereſs could not be found out, yet ſeveral of the Religious that went under the deno<g ref="char:EOLhyphen"/>mination of Maids were found with Child.</p>
+            <p>In ſhort, though this Town hath but three Conventicles in it, the North, the South, and the old one; yet few pla<g ref="char:EOLhyphen"/>ces of greater extent abounds with more Pimps, Procurers, Panders, &amp;c. than this does; and the lewdeſt of 'em all is one <hi>M—le.</hi>
+            </p>
+            <p>For Cheating and Lying our Inhabitants are (I believe) ſingular by themſelves, and the Villanies that are commit<g ref="char:EOLhyphen"/>ted that way are without number. They make a ſport of it here, look upon Cheating as a commendable piece of Ingenuity, and brag of thoſe vile Actions which others are aſhamed of, commending him that has the moſt skill to commit a piece of Roguery.</p>
+            <p>There was one <hi>H—n L—tt,</hi> a true Chip of the old Block, (Son to a Perſon notoriouſly known for his dutiful Declaration, in ſaying, that rather than this People ſhould comply with the Kings Power, he'd ſell the Country to the <hi>King of Spain,</hi> in imitation of his Fathers Virtues) being diſpatch'd into the <hi>Weſt Indies</hi> with a Cargo of Goods, to diſpoſe of them as Factor. This Fellow thinking himſelf ſecure amongſt the ignorant <hi>Indians,</hi> proceeds in his old method, and accordingly makes ſale of Twelve Barrels of Flower, at a rate certain by the Hundred weight, and in
+<pb n="6" facs="tcp:99833:5"/>four or five days the <hi>Indian</hi> comes for the Goods; but no ſooner had my Rogue <hi>L—tt</hi> got his Chapmans back-ſide, but he cauſes the Flower to be repackt, and then filled the Barrels with Stone; by which means he increaſed his ſtore to ſuch a quantity, that he damaged the <hi>Indian</hi> Thirty Pie<g ref="char:EOLhyphen"/>ces of Eight. But he being afterwards found out, was ſued and forced to pay for his Knavery; and if it had not been for very earneſt and importunate Sollicitations made on his behalf to the Governour, he had moſt certainly diſ<g ref="char:EOLhyphen"/>grac'd the Pilory.</p>
+            <p>Another Cheat which he committed was thus, and in his own Countrey too: He agrees with a Countryman for a Horſe, and was to pay Four Pounds of <hi>Maſathuſet</hi> Mo<g ref="char:EOLhyphen"/>ney, and that to become due upon the Day of Election for Magiſtrates, which is held yearly. He underſtanding that the Country man could not read, makes the Bill under his Hand to be payable at the Day of the Reſurrection of the Magiſtrates, willing belike to take time enough to pay his Debts, or elſe in good hopes the Magiſtrates had no ſhare in that Day. The Countryman however ſues him, and with much trouble and charge recovers his Money.</p>
+            <p>This Fellow ſince his Father died is reduced to a Morſel of Bread, and in ſo low a condition, that he pimps to moſt of the Whores in <hi>Boſton.</hi> Sometimes he threatens to pro<g ref="char:EOLhyphen"/>ſecute Strangers for debauching a Siſter or a Couſin, &amp;c. but ſometimes after all his bluſtering he will be contented with Half a Crown. He has his Mates as bad as he is, and many a Shopkeeper and Tradeſman as bad as himſelf; who are ſo damnably addicted to Lying and Cheating, that it is dan<g ref="char:EOLhyphen"/>gerous for a Stranger to trade amongſt them, without peril of being inevitably ruined.</p>
+            <p>In whatever any one deals with them, he ſhall be cer<g ref="char:EOLhyphen"/>tainly overreached either in goodneſs or value; ſo that it would be the wiſdom of Foreiners to deal with none but the Factors here, who generally bear a good conſcience. And yet amongſt them, all are not honeſt neither: I will inſtance onely in one, who as I have been credibly inform<g ref="char:EOLhyphen"/>ed, having a Warehouſe burn'd down not worth to him above 80 <hi>l.</hi> and though he loſt not much by the Fire, yet
+<pb n="7" facs="tcp:99833:5" rendition="simple:additions"/>the Good Man had the conſcience to charge his Corre<g ref="char:EOLhyphen"/>ſpondents ſome Hundreds of Pounds for the loſs of their Goods.</p>
+            <p>In ſhort, Sir, theſe <hi>Boſtonians</hi> enrich themſelves by the ruine of Strangers, and (like ravenous Birds of Prey) ſtrive who ſhall faſten his Talons firſt upon them. But all theſe things you muſt know, Sir, paſs under the notion of Self-preſervation and Chriſtian Policy.</p>
+            <p>As to their Drunkenneſs, though they have a Law againſt it, yet they are ſo addicted to it, that they doubt whether it is a ſin or no, and ſeldom go to bed without muddy brains. If you come into the company of one in ſuch a condition, you have an infallible Mark to know him by, which is this, you ſhall hear nothing proceed from his mouth but Scrip<g ref="char:EOLhyphen"/>ture Phraſe, and when he can hardly ſpeak any thing, he is clearly for Canting. Hence it comes that they are ſo ſilly and extravagant in their Prayers and Ejaculations:</p>
+            <p>
+               <hi>Lord,</hi> (ſays one) <hi>I thank thee that thou haſt thus enrich'd thy Servant; what am I, or what is my Fathers Family, that thou ſhouldeſt thus regard me? How haſt thou filled thy Servants Cup, nay it runs over to two hundred pounds? Thou haſt gi<g ref="char:EOLhyphen"/>ven thy Servant as good an Houſe as the Worſhipful</hi> Mr. T—g <hi>thy humble Servant, nay almoſt as good an Houſe as the Honour<g ref="char:EOLhyphen"/>able the Governour, but there is not ſo many Bricks, O Lord.</hi>
+            </p>
+            <p>
+               <hi>Lord,</hi> (ſays another) <hi>I beſeech thee give me this Cloth; thou haſt promiſed that all ſuch as belong to the Election of thy Grace ſhall not want; I challenge thee therefore on thy promiſe, thou knoweſt (O Lord) I want a Coat, a Pair of Breeches and a Doublet; 'tis true (O Lord) the Cloth is none of mine own, but perſuade the man (O Lord) to give it me.</hi>
+            </p>
+            <p>
+               <hi>Lord,</hi> (ſays a third) <hi>thou knoweſt the pride of theſe people, and that it is for the pride of the people that thou haſt brought upon us all theſe Judgments: O Lord, it is for the pride of the people I ſay, O Lord if thou wilt not believe me, do but look upon my Cupboards Head, and there are a Pair of Shooes with long Toes to them.</hi>
+            </p>
+            <p>I wonder with what impudence theſe people can pre<g ref="char:EOLhyphen"/>tend to Religion; nay a fourth went further, and in the midſt of his Devotion forſooth, when ſome Milk that was
+<pb n="8" facs="tcp:99833:6"/>on the fire boil'd over, he left his Prayers and curſt his Boy, crying, <hi>God damn him for a Son of a Whore, did he not ſee the Milk boil over?</hi>
+            </p>
+            <p>Another was at his Exerciſe, and a Cuſtomer knock'd at the door for a Penyworth of Nails; the Brother ſends the Boy to the door, to enquire who it was; he returns and tells him, <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t was a Cuſtomer for a Penyworth of Nails: ask him (ſays the Good Man) if he will joyn with us in prayer; he goes and returns with a <hi>No:</hi> why then (ſays the Good Man) ſerve him <hi>John,</hi> ſerve him. But of theſe profane Mix<g ref="char:EOLhyphen"/>tures we have abundance, there being hardly a Shopkeeper in the whole Town without a tang of this Leven.</p>
+            <p>A ſixth Inſtance I ſhall give you of a Lay Elder, one <hi>W—ll,</hi> as he prayed in the old Conventicle: <hi>Lord,</hi> (ſays he) <hi>thy mercies have been to us manifold, for behold formerly it was but a mere Bog and a Swamp, where our ſtately Townhouſe ſtands; yea (Lord) the Sea and the Tide came up where now our Boys play at Football.</hi>
+            </p>
+            <p>Now pray (Sir) let me ſee what the Brethren can ſay to theſe things, and what Scripture they have for their War<g ref="char:EOLhyphen"/>rant. Now as to the ſin of Buggery, which though it be one of the higheſt nature, yet there be ſome of the Breth<g ref="char:EOLhyphen"/>ren that do love to embrace their likeneſs, (to wit a Beaſt;) chooſing rather to have familiarity with a Beaſt or a hand<g ref="char:EOLhyphen"/>ſom Boy, than uſe their own Wives.</p>
+            <p>Whereof take a ſad Example of an ancient united Mem<g ref="char:EOLhyphen"/>ber to his Church, in his reſpective habitation, who lived at <hi>New Haven;</hi> he was ſo extremely brutiſh, that he bugger<g ref="char:EOLhyphen"/>ed no leſs than five ſeveral Creatures, a Mare, a Cow, a Sheep, a Sow, and a Bitch. His Wife caught him one day buggering a Sow in the Backſide, and threatned him with Juſtice; but he menacing her with Death, ſcared her, and ſo eſcaped that time, and went on in his Villany; till he was detected by two of his Neighbours, who brought him to Juſtice for the ſame, where he confeſſed the buggering the five ſeveral Creatures before mentioned, and was ac<g ref="char:EOLhyphen"/>cordingly executed.</p>
+            <p>I had not given you the trouble of ſo long a Letter, nor raked in ſuch a Dunghil of Filth, but that this ſort of Peo<g ref="char:EOLhyphen"/>ple
+<pb n="9" facs="tcp:99833:6" rendition="simple:additions"/>are apt to ſay, <hi>Stand off, for I am more holy than thou;</hi> and under that cloud ſhall perpetrate the moſt horrid Crimes that ever Hell ſpawned; as Murder, Adultery, Ly<g ref="char:EOLhyphen"/>ing, Cheating, Drunkenneſs, and Buggery; all which are but Failings in a Brother or Siſter: though if a wicked man (<hi>aliàs</hi> an honeſt man) ſhould chance to commit the leaſt of theſe Crimes, ſtreight ways all the Volleys of D<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>m<g ref="char:EOLhyphen"/>nation, that the envious mouth of an Hypocrite can diſ<g ref="char:EOLhyphen"/>charge on him, ſhall be his lot.</p>
+            <p>Of things and perſons though I could write much more, yet I ſhall make an end with a Relation of a ſevere piece of Juſtice, done by one that is in Commiſſion for the Peace; A Vintner in <hi>Boſton</hi> put up a new Sign called <hi>The Roſe and Crown,</hi> with two Naked Boys being Supporters, and their Nudities Pendent: the ſight diſturbed one Juſtice <hi>S—r,</hi> who commanded it down; and away were the Boys ſent to the Carvers to be diſmembered: but the unlucky Dog of a Carver ſent them back again two chopping Girles with Merkins expoſed. This enraged the Juſtice more, and the Sign was ſummoned before the wiſe Court, where they gravely determined (to keep the Girles from bluſhing) they ſhould have Roſes clapt upon their Merkins; which is the original of our new Proverb, <hi>
+                  <g ref="char:V">Ʋ</g>nder the Roſe a Merkin.</hi> Sir, I ſhall trouble you no more at preſent, onely that I am</p>
+            <closer>
+               <signed>Yours, <hi>J. W.</hi>
+               </signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
